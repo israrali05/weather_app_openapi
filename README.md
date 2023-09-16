@@ -1,3 +1,6 @@
+
+![Screenshot_20230916_153320](https://github.com/israrali05/weather_app_openapi/assets/105581953/17017b02-c035-46e1-bd08-be22e9c3f7e1)
+
 # weather_app_openapi
 
 A new Flutter project.
